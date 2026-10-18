@@ -20,6 +20,6 @@
 - **Computer Vision:** Object Detection(Wildlife), Network Optimization for Edge Devices
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="200">
+  <iframe src="https://giphy.com/embed/nPxVvyTWo1aIU" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/muppets-computers-nPxVvyTWo1aIU">via GIPHY</a></p>
 </div>
 
