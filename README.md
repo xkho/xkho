@@ -19,10 +19,13 @@
 - **Machine Learning:** PyTorch, Reinforcement Learning (Including Policy Optimizations), Tensorflow
 - **Computer Vision:** Object Detection(Wildlife), Network Optimization for Edge Devices
 
+
+
+
 <div align="center">
   <img
     src="https://media.giphy.com/media/nPxVvyTWo1aIU/giphy.gif"
-    width="500"
+    width="250"
     alt="Computer GIF"
   />
 </div>
