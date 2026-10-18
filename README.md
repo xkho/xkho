@@ -21,12 +21,17 @@
 
 
 
-
 <div align="center">
-  <img
-    src="https://media.giphy.com/media/nPxVvyTWo1aIU/giphy.gif"
-    width="250"
-    alt="Computer GIF"
-  />
+  <table>
+    <tr>
+      <td>
+        <img
+          src="https://media.giphy.com/media/nPxVvyTWo1aIU/giphy.gif"
+          width="250"
+          alt="Computer GIF"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
 
