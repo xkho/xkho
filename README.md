@@ -20,6 +20,10 @@
 - **Computer Vision:** Object Detection(Wildlife), Network Optimization for Edge Devices
 
 <div align="center">
-  <img src="https://giphy.com/gifs/muppets-computers-nPxVvyTWo1aIU" title="Computer GIF">
+  <img
+    src="https://media.giphy.com/media/nPxVvyTWo1aIU/giphy.gif"
+    width="500"
+    alt="Computer GIF"
+  />
 </div>
 
